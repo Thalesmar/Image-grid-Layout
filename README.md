@@ -6,6 +6,8 @@ A responsive image grid layout built using **HTML** and **CSS Grid**, inspired b
 
 ---
 
+project URL : https://roadmap.sh/projects/image-grid
+
 ## 🚀 Features
 
 - ✅ Clean and minimal design
@@ -43,12 +45,6 @@ A responsive image grid layout built using **HTML** and **CSS Grid**, inspired b
 - ✅ Responsive layout for different screen sizes
 - ✅ Supports different image dimensions
 - ✅ Easy to customize
-
----
-
-## 📸 Preview
-
-![Screenshot](assets/screenshot.png)
 
 ---
 
