@@ -18,7 +18,7 @@ A responsive image grid layout built using **HTML** and **CSS Grid**, inspired b
 
 ## 📸 Preview
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](./img/Screenshot_2.png)
 
 ---
 
